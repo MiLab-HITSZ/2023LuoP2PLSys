@@ -1,3 +1,13 @@
+# Auther: yognkangluo
+# Version: 0.0.1
+# Time: 2023/06/25
+#
+# This programmer is P2PSys. This program simulates a P2P implementation with multiple clients. 
+# Simultaneously, the realization of the secure multi-party computation protocol is simulated. 
+# Different clients have different computing capabilities simulated by timers.
+#
+# ==============================================================================
+
 import argparse
 import copy
 import json
